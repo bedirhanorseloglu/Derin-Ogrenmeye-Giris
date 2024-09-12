@@ -1,1 +1,4 @@
-# Derin-renmeye-Giri-
+# Derin-Ogrenmeye-Giris
+- Derin Öğrenme Nedir?
+- Derin Öğrenmenin Tarihçesi
+- Derin Öğrenme Araçları
